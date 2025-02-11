@@ -28,7 +28,7 @@ The CNN model consists of multiple layers:
 
 ## Evaluation
 - The model's performance is assessed using validation and test datasets.
-- Accuracy, loss, and confusion matrices are used as evaluation metrics.
+- For now only Accuracy used as evaluation metrics.
 
 ## Results
 - The final trained model achieves a high accuracy in distinguishing healthy and diseased potato leaves.
@@ -40,7 +40,7 @@ The CNN model consists of multiple layers:
 3. The model predicts whether the leaf is healthy or diseased.
 
 ## Future Improvements
-- Enhance model performance by using advanced architectures like ResNet.
+- Add more evaluation metrics.
 - Expand the dataset to include more disease categories.
 - Deploy the model as a web or mobile application for real-world use.
 
