@@ -45,8 +45,8 @@ The CNN model consists of multiple layers:
 - Deploy the model as a web or mobile application for real-world use.
 
 ## Contributors
-- **Upendra Raj Joshi**  
-- Other contributors (if any)
+- [Upendra Raj Joshi](https://github.com/Upendra48)
+- [Kalpana Acharya](https://github.com/kaps04)
 
 ## License
 This project is open-source and available under the MIT License.
